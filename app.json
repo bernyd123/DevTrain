@@ -1,0 +1,26 @@
+{
+  "id": "2f574089-0e77-4bf7-a1bb-3aa433f6f191",
+  "name": "ALProject12",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject12.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
